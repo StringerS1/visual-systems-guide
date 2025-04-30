@@ -1,0 +1,1 @@
+// Serial controlled lighting effects for stage via Arduino.

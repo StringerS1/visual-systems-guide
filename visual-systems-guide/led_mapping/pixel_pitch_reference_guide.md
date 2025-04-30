@@ -1,0 +1,1 @@
+Pixel pitch vs viewing distance guide with diagrams and tables.

@@ -1,0 +1,1 @@
+How to export TouchDesigner output to Resolume via NDI. Framerate, resolution, sync tips.
